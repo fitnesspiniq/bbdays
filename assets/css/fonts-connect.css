@@ -1,0 +1,71 @@
+/* Space Age */
+@font-face {
+    font-family: "Space-Age";
+    src: url("/public/fnt/space-age.ttf");
+}
+
+/* Space Shards */
+@font-face {
+    font-family: "Space-Shards";
+    src: url("/public/fnt/space-shards.ttf");
+}
+
+/* Crowden */
+@font-face {
+    font-family: "Crowden";
+    src: url("/public/fnt/crowden.ttf");
+}
+
+/* Exima Geometric */
+@font-face {
+    font-family: "Exima-Geometric";
+    src: url("/public/fnt/exima-geometric.ttf");
+}
+
+/* Calderious */
+@font-face {
+    font-family: "Calderious";
+    src: url("/public/fnt/calderious.ttf");
+}
+
+/* Pico-8 */
+@font-face {
+    font-family: "Pico-8";
+    src: url("/public/fnt/pico-8.ttf");
+}
+
+/* Xenotroncyrillic */
+@font-face {
+    font-family: "Xenotroncyrillic";
+    src: url("/public/fnt/xenotroncyrillic.ttf");
+}
+
+/* Punch3D */
+@font-face {
+    font-family: "Punch3D";
+    src: url("/public/fnt/punch-3d.ttf");
+}
+
+/* Gutterfly */
+@font-face {
+    font-family: "Gutterfly";
+    src: url("/public/fnt/gutterfly.ttf");
+}
+
+/* StarseedsPersonalUseRegular */
+@font-face {
+    font-family: "StarseedsPersonalUseRegular";
+    src: url("/public/fnt/starseeds-personal-use-regular.ttf");
+}
+
+/* Encrypto */
+@font-face {
+    font-family: "Encrypto";
+    src: url("/public/fnt/encrypto.ttf");
+}
+
+/* Combine-17_0 */
+@font-face {
+    font-family: "Combine-17_0";
+    src: url("/public/fnt/combine-17_0.ttf");
+}
